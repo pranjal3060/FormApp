@@ -1,0 +1,17 @@
+C:\Users\Pranjal Singh\source\repos\WindowsApp\bin\Debug\WindowsApp.exe.config
+C:\Users\Pranjal Singh\source\repos\WindowsApp\bin\Debug\WindowsApp.exe
+C:\Users\Pranjal Singh\source\repos\WindowsApp\bin\Debug\WindowsApp.pdb
+C:\Users\Pranjal Singh\source\repos\WindowsApp\bin\Debug\WindowsApp.xml
+C:\Users\Pranjal Singh\source\repos\WindowsApp\obj\Debug\WindowsApp.vbproj.AssemblyReference.cache
+C:\Users\Pranjal Singh\source\repos\WindowsApp\obj\Debug\WindowsApp.Form1.resources
+C:\Users\Pranjal Singh\source\repos\WindowsApp\obj\Debug\WindowsApp.Resources.resources
+C:\Users\Pranjal Singh\source\repos\WindowsApp\obj\Debug\WindowsApp.vbproj.GenerateResource.cache
+C:\Users\Pranjal Singh\source\repos\WindowsApp\obj\Debug\WindowsApp.vbproj.CoreCompileInputs.cache
+C:\Users\Pranjal Singh\source\repos\WindowsApp\obj\Debug\WindowsApp.exe
+C:\Users\Pranjal Singh\source\repos\WindowsApp\obj\Debug\WindowsApp.xml
+C:\Users\Pranjal Singh\source\repos\WindowsApp\obj\Debug\WindowsApp.pdb
+C:\Users\Pranjal Singh\source\repos\WindowsApp\obj\Debug\WindowsApp.Form3.resources
+C:\Users\Pranjal Singh\source\repos\WindowsApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Pranjal Singh\source\repos\WindowsApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Pranjal Singh\source\repos\WindowsApp\obj\Debug\WindowsApp.vbproj.Up2Date
+C:\Users\Pranjal Singh\source\repos\WindowsApp\obj\Debug\WindowsApp.Form2.resources
